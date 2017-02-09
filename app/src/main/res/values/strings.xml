@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DT TEST</string>
+    <string name="not_available">N/A</string>
+    <string name="num_ratings">No.of Ratings</string>
+    <string name="product_description">Product Description</string>
+    <string name="category_name">Category Name</string>
+    <string name="product_name">Product Name</string>
+    <string name="min_os_version">Min OS version</string>
+    <string name="product_rating">Product Rating</string>
+</resources>

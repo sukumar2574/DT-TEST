@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="adapter_margin">5dp</dimen>
+    <dimen name="adapter_padding">10dp</dimen>
+    <dimen name="product_subtext_size">25sp</dimen>
+    <dimen name="product_text_heading">20sp</dimen>
+    <dimen name="text_padding">2dp</dimen>
+
+</resources>
